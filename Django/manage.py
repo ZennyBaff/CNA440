@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#https://www.tutorialrepublic.com/codelab.php?topic=jquery&file=animation
 #contains a moving head of dwight.
 
 """Django's command-line utility for administrative tasks."""
