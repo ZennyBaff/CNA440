@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d0fdfd-0c08-4c54-9d74-7434d278be72" name="Default Changelist" comment="" />
+    <list default="true" id="f7d0fdfd-0c08-4c54-9d74-7434d278be72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Django/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-473">
+            <state relative-caret-position="1173">
               <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
             </state>
           </provider>
@@ -39,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cna440/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="204">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -61,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/Django/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
               <folding>
                 <element signature="e#630#662#0" expanded="true" />
               </folding>
@@ -72,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cna440/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="221">
               <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -84,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static_host/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -97,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/static_host/tests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -105,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static_host/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="119">
               <caret line="11" column="35" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -117,13 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="595">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -145,6 +143,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -163,11 +164,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="471" />
-    <option name="y" value="66" />
-    <option name="width" value="2466" />
-    <option name="height" value="1584" />
+    <option name="x" value="-20" />
+    <option name="y" value="12" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,26 +183,6 @@
               <item name="Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Django" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="cna440" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="static_host" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,11 +190,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static_host" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -235,7 +218,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django tests.Test: ">
+    <configuration name="Test: " type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Django" type="Python.DjangoServer" factoryName="Django server">
       <module name="Django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +247,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="Django.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\IanLaptop\PycharmProjects\untitled\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -260,6 +263,11 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: " />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -273,22 +281,23 @@
       <updated>1554128871686</updated>
       <workItem from="1554128874395" duration="1146000" />
       <workItem from="1554335040328" duration="7688000" />
+      <workItem from="1555037168753" duration="1405000" />
+      <workItem from="1555631852822" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8834000" />
+    <option name="totallyTimeSpent" value="11090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="314" y="44" width="1644" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-20" y="12" width="1943" height="1103" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25283733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25862986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3718919" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37150466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,26 +326,7 @@
     <entry file="file://$PROJECT_DIR$/Django/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cna440/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cna440/static.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="67" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cna440/static.py" />
     <entry file="file://$PROJECT_DIR$/cna440/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -347,18 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/jquery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="32" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jquery.html" />
     <entry file="file://$PROJECT_DIR$/cna440/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -378,44 +357,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-473">
+        <state relative-caret-position="1173">
           <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static_host/tests.py">
+    <entry file="file://$PROJECT_DIR$/cna440/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static_host/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cna440/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -427,9 +379,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Django/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cna440/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static_host/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static_host/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static_host/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="119">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="35" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -439,13 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="595">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
